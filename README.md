@@ -66,9 +66,15 @@ Modeled two disease scenarios:
 
 ---
 
-## **👥 Authors**  
-Arianna Arruzzoli, Benedetta Bottari, Claudia Brunetti, Milena Mazza  
-*University of Bologna, Computer Science*  
+
+## 👥 Contributors
+Arianna Arruzzoli  
+Benedetta Bottari  
+Claudia Brunetti  
+Milena Mazza    
 
 🔗 **License**: CC BY-NC-SA 4.0  
 📜 **Full Report**: `SNA.pdf`
+
+## 🎓 Academic Context
+Academic Year **2024/2025** - University of Bologna
